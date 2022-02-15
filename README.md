@@ -2,7 +2,7 @@
 
 Working towards more robust rapid-assembly mechanisms components for [Connect](https://nustem.uk/connect) devices. These sticks are based on lollipop stick dimensions, pre-drilled for paperclip linkages and pivots. The paddle-shaped things are intended as servo holders. Size reference:
 
-[!Stick size comparison](lolly-sticks.png)
+![Stick size comparison](lolly-sticks.png)
 
 The source document is in Affinity Designer format because that's what I had to hand at the time (Illustrator was taking an age to update itself). Other documents exported from that.
 
